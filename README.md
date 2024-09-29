@@ -24,7 +24,7 @@
 <br/>
 
 ### About me 🚀
-- 🌱 Works on **MERN**, **React Native** by passion and now passion is my field
+- 🌱 Works on **MERN**, **React Native**, **Svelte**, **Sveltekit**  by passion and now passion is my field
 - 👯 Love to help people and grow as a community
 - 👣 I like Chess and Cricket
 
